@@ -1,2 +1,2 @@
 pandas==2.1.2
-openpy
+openpyx1=3.0.10
